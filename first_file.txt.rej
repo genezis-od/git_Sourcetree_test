@@ -1,0 +1,17 @@
+diff a/first_file.txt b/first_file.txt	(rejected hunks)
+@@ -9,4 +9,12 @@
+ 
+ i ve been checkout in develop branch
+ 
+-chaneg in develop branvh number 1
+\ No newline at end of file
++chaneg in develop branvh number 1
++
++
++change in develop branch number 2
++
++
++devloper changes 3
++
++embedded developer changes code here in 4 time
+\ No newline at end of file
